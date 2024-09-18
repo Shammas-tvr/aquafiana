@@ -1,0 +1,87 @@
+*{
+    margin:4px;
+    font-family: sans-serif;
+ }
+ .p{
+    font-family: sans-serif;
+    line-height: 16px;
+    vertical-align: middle;
+    font-size: 16px;
+    color: white;
+    letter-spacing: .6px;
+    margin-top: 60px;
+    margin-left: 35px;
+ }
+ .span{
+    color: white;
+    line-height: 5px;
+    margin-top:65px ;
+    margin-left: 19px;
+    font-weight: bold;
+ }
+ .header{
+ width: 100%;  
+ background-color: rgb(44, 44, 193); 
+ height: 120px;
+ 
+}
+.head-inside{
+    display: flex;
+    flex-direction: row;
+}
+.header-logo{
+    margin-top: 50px;
+    width: 155px;
+    height: 43px;
+    margin-left: 250px;
+    
+}
+.drink-logo{
+   width: 18px;
+   margin-top: 57px;
+}
+.Drink-line{
+    font-family: sans-serif;
+    line-height: 16px;
+    vertical-align: middle;
+    font-size: 16px;
+    color: white;
+    letter-spacing: .6px;
+    margin-top: -24px;
+    margin-left: 25px;
+
+}
+.En-button{
+    color: white;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(201, 206, 249);
+    border-radius: 50%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 270px;
+    font-style: italic;
+}
+.spanl{
+    color: white;
+    line-height: 5px;
+    position: absolute;
+    margin-left: 310px;
+    margin-top: 40px;
+
+}
+.share-logo{
+   background-color:transparent;
+   border-radius: 50%;
+   border-width: 2px;
+   border-color: rgb(201, 206, 249);
+   border-style: solid;
+   width: 26px;
+   position: absolute;
+   margin-left: 270px;
+   margin-top: 9px;
+}
